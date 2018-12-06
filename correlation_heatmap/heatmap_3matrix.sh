@@ -1,0 +1,1 @@
+/NJPROJ2/MICRO/PROJ/yangfenglong/software/miniconda3/lib/R/bin/Rscript bin/corr.heatmap.R --prefix ko_phe --prefix2 ko_metabo --mat1 input/ko_diff_relative.xls --t1 --mat2 input/pheno.list --mat3 input/metabolics.xls --outdir heatmap_3mat/

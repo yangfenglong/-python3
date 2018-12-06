@@ -1,0 +1,2 @@
+/NJPROJ2/MICRO/PROJ/yangfenglong/software/miniconda3/lib/R/bin/Rscript /NJPROJ2/MICRO/PROJ/yangfenglong/yanfa/pathview/bin/pathview.R --gene_data ko_diff_relative.xls  --outdir autosel --native F --pathview_id 04110 --trans_gene scale --key_pos bottomleft 
+/NJPROJ2/MICRO/PROJ/yangfenglong/software/miniconda3/lib/R/bin/Rscript /NJPROJ2/MICRO/PROJ/yangfenglong/yanfa/pathview/bin/pathview.R --gene_data ko_diff_relative.xls  --outdir autosel --native T --pathview_id 04110 --trans_gene scale --key_pos bottomleft 
